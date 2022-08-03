@@ -44,7 +44,7 @@ input, select, textarea, button {
 
 fieldset.grupo .campo {
     float: left;
-    margin-right:1em;
+    margin-right: 1em;
 }
 
 .campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
