@@ -1,15 +1,15 @@
-*{
-    margin:40;
+* {
+    margin: 40;
     padding: 0;
 }
 
-#titulo{
+#titulo {
     font-family: candara, sans-serif;
     color: #000000;
     margin-left: 10%;
 }
 
-#subtitulo{
+#subtitulo {
     margin-left: 10%;
     font-size: 20px;
 }
@@ -18,7 +18,7 @@ fieldset {
     border: 0;
 }
 
-body{
+body {
     background-color: #F0F8FF;
     font-family: candara, sans-serif;
     font-size: 1em;
@@ -28,7 +28,7 @@ body{
     justify-content: center;
 }
 
-input, select, textarea, button{
+input, select, textarea, button {
     border-radius: 5px;
 }
 
@@ -36,13 +36,13 @@ input, select, textarea, button{
     margin-bottom: 1.5em;
 }
 
-.campo label{
+.campo label {
     margin-bottom: 0.2em;
     color: #000000;
     display: block;
 }
 
-fieldset.grupo .campo{
+fieldset.grupo .campo {
     float: left;
     margin-right:1em;
 }
@@ -54,7 +54,7 @@ fieldset.grupo .campo{
     display: block;
 }
 
-.campo select option{
+.campo select option {
     padding-right:1em;
 }
 
