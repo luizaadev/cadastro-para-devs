@@ -3,5 +3,6 @@ aproveitei esse projeto para aprimorar meus conhecimentos em CSS, além de conhe
 
 
 
-![image](https://user-images.githubusercontent.com/103958460/182677984-6fe610d6-58a2-4432-ae65-42a01cdcd22b.png)
+![image](https://user-images.githubusercontent.com/103958460/182678263-d85d0d66-7eb8-4455-af81-4a32ecc3773b.png)
+
 
