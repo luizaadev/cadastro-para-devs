@@ -55,11 +55,11 @@ fieldset.grupo .campo {
 }
 
 .campo select option {
-    padding-right:1em;
+    padding-right: 1em;
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus {
-    background:#ffffff;
+    background: #ffffff;
 }
 
 .button {
